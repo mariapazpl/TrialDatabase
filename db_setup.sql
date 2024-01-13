@@ -1,3 +1,1 @@
 CREATE TABLE comments;
-
-asd
