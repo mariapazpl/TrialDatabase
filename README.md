@@ -2,7 +2,7 @@
 
 This is a simple application that stores comments from users and displays them. It is intended to be run on python-anywhere, where the code has access to a MySQL database.
 
-This was used to experiment with persistent storage for the Patria website, which can be found here: [Patria](https://github.com/mariapazpl/Patria-Website).
+This was used to experiment with persistent storage for the [Patria](https://github.com/mariapazpl/Patria-Website) website.
 
 ## Files
 
