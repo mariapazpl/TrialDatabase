@@ -11,6 +11,9 @@ This was used to experiment with persistent storage for the [Patria](https://git
 2. The flask_app.py file contains the code to run a simple Flask server that will interface with the MySQL database once the tables have been created, allowing users to store their comments, and serving the main page.
 
 3. The templates/main_page.html is the HTML file that will be served to the users, allowing them to write comments which will then be stored in the table we created in step 1.
-4. Demo video: https://github.com/mariapazpl/TrialDatabase/assets/153972139/38eab286-0e5e-4d9c-af4f-ea33bd0c0c24
+4. Demo video:
+   
+
+https://github.com/mariapazpl/TrialDatabase/assets/153972139/23cdc60c-714a-433d-9352-cdbdd3c35ec9
 
 
